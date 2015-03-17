@@ -1,0 +1,9 @@
+-[ RECORD 1 ]-------------+------------------------------
+primary_node              | 1
+standby_node              | 2
+last_monitor_time         | 2013-10-27 12:53:47.985443+06
+last_wal_primary_location | 6/FD050C58
+last_wal_standby_location | 6/FD050C58
+replication_lag           | 0 bytes
+apply_lag                 | 0 bytes
+time_lag                  | 00:00:00.065552
